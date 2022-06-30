@@ -1,0 +1,53 @@
+.container-fluid {
+    background-color: #87CEFA ;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+    box-sizing: border-box;
+    border-color: black;
+    border: 2px solid;
+    background-color:gray;
+    padding-bottom: 1px;
+    cursor: pointer;
+    padding-top: 30px;
+    height: 130px;
+}
+
+ 
+
+ .navbar-brand {
+    font-size: 50px;
+    padding: 0cm;
+ }
+
+
+
+  .navbar-toggler {
+    cursor: pointer;
+  }
+
+
+ #fintech{
+   margin-left: 35%;
+   font-size: 50px;
+}
+
+ h2{
+    padding-left: 15%;
+    text-align: center;
+}
+
+ footer{
+    text-decoration: underline;
+    font-size: 30px;
+    padding-left: 25%;
+    padding-bottom: 20px;
+ }
+
+ a{
+    font-size: 50px;
+ }
+
+ 
